@@ -28,4 +28,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: yourdockerhubuser/tensorflow-serving-custom:2.18.0
+          tags: zjumlw/tensorflow-serving-custom:2.18.0
